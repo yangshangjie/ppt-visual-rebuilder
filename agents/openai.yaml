@@ -1,0 +1,10 @@
+interface:
+  display_name: "PPT Visual Rebuilder"
+  short_description: "Turn PPT outlines and style mosaics into high-end page visuals."
+  default_prompt: "Use $ppt-visual-rebuilder to reverse-engineer a PPT, choose a visual direction, generate a mosaic, and expand it into single-page visual drafts."
+
+metadata:
+  author: "Yang Shangjie"
+  version: "1.0.0"
+  license: "CC BY-NC 4.0"
+  maintainer: "Yang Shangjie"
